@@ -1,3 +1,6 @@
-#!/usr/bin/env python3
+'''
+This is a sample module docstring.
+'''
 
-poor_syntax = 2 * #
+poor_syntax = 2 * 2
+print(poor_syntax)

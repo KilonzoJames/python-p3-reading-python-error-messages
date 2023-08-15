@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
-
-assert(1 == 2)
+'''
+This is a sample module docstring.
+'''
+assert 1 == 1
